@@ -1,0 +1,79 @@
+.discordLink {
+    border-radius: 4px;
+    transition-duration: 0.4s;
+    text-align: center;
+    padding: 14px 80px;
+    margin-left: 43%;
+    background-color: #18191a;
+    border: 2px solid #FF0000;
+    color: white;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
+  }
+  .genLink{
+    border-radius: 4px;
+    transition-duration: 0.4s;
+    text-align: center;
+    padding: 14px 40px;
+    background-color: #18191a;
+    margin-left: 25%;
+    border: 2px solid red;
+    color: white;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
+  }
+  
+  .discordLink:hover {
+    background-color: #18191a;
+  }
+  .genLink:hover{
+    background-color: #18191a;
+  }
+
+  .topPage{
+      padding-top: 10px;
+      padding-bottom: 10px;
+      background-color: #3f3f3f;
+  }
+  html{
+      background-color: #191b1c;
+  }
+  .accountMania{
+      font-size: 75px;
+      font-family: 'Source Sans Pro', sans-serif;
+      text-align: center;
+      color: white;
+      top: 120px;
+      text-align: center;
+  }
+  .accounts{
+    font-size: 60px;
+    text-align: center;
+    top: 175px;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+  .logo {
+    margin-left: 36%;
+    border-radius: 50%;
+    margin-top: 40px;
+    width: 30%;
+    height: 30%;
+  }
+  .accountsPic{
+      width: 50%;
+      height: 10%;
+      margin-left: 23%;
+      border: 3px solid #18191a;
+  }
+  .footer{
+      background-color: #3f3f3f;
+      color: white;
+      padding: 2% 2% 2% 2%;
+      text-align: center;
+      margin-top: 3%;
+  }
+  .privacy{
+    color: white;
+  }
+  
